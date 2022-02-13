@@ -1269,7 +1269,7 @@ U 1 1 6388C823
 P 10750 2700
 F 0 "J9" H 10668 2375 50  0000 C CNN
 F 1 "RIGHT" H 10668 2466 50  0000 C CNN
-F 2 "HammerheadAudio:Phoenix_Stacked_Marking2_Wider_NoRef" H 10750 2700 50  0001 C CNN
+F 2 "HammerheadAudio:Phoenix_Stacked_Marking2_Wider_NoRef_Centered" H 10750 2700 50  0001 C CNN
 F 3 "~" H 10750 2700 50  0001 C CNN
 	1    10750 2700
 	1    0    0    1   
@@ -1280,7 +1280,7 @@ U 1 1 6388D78F
 P 10750 3250
 F 0 "J10" H 10668 2925 50  0000 C CNN
 F 1 "MONO" H 10668 3016 50  0000 C CNN
-F 2 "HammerheadAudio:Phoenix_Stacked_Marking2_Wider_NoRef" H 10750 3250 50  0001 C CNN
+F 2 "HammerheadAudio:Phoenix_Stacked_Marking2_Wider_NoRef_Centered" H 10750 3250 50  0001 C CNN
 F 3 "~" H 10750 3250 50  0001 C CNN
 	1    10750 3250
 	1    0    0    1   
@@ -1295,7 +1295,7 @@ U 1 1 638B1ACD
 P 10750 3800
 F 0 "J11" H 10668 3475 50  0000 C CNN
 F 1 "LEFT" H 10668 3566 50  0000 C CNN
-F 2 "HammerheadAudio:Phoenix_Stacked_Marking2_Wider_NoRef" H 10750 3800 50  0001 C CNN
+F 2 "HammerheadAudio:Phoenix_Stacked_Marking2_Wider_NoRef_Centered" H 10750 3800 50  0001 C CNN
 F 3 "~" H 10750 3800 50  0001 C CNN
 	1    10750 3800
 	1    0    0    1   
@@ -1573,7 +1573,7 @@ U 1 1 620CC523
 P 700 1000
 F 0 "J1" H 618 675 50  0000 C CNN
 F 1 "POWER" H 618 766 50  0000 C CNN
-F 2 "HammerheadAudio:Phoenix_Stacked_Marking2_Wider_NoRef" H 700 1000 50  0001 C CNN
+F 2 "HammerheadAudio:Phoenix_Stacked_Marking2_Wider_NoRef_Centered" H 700 1000 50  0001 C CNN
 F 3 "~" H 700 1000 50  0001 C CNN
 	1    700  1000
 	-1   0    0    1   
@@ -1914,7 +1914,7 @@ U 1 1 62B05122
 P 1800 3650
 F 0 "J12" H 1772 3624 50  0000 R CNN
 F 1 "INS" H 1772 3533 50  0000 R CNN
-F 2 "" H 1800 3650 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical" H 1800 3650 50  0001 C CNN
 F 3 "~" H 1800 3650 50  0001 C CNN
 	1    1800 3650
 	-1   0    0    -1  
@@ -1974,7 +1974,7 @@ U 1 1 62D2BDA8
 P 2250 3650
 F 0 "J13" H 2222 3624 50  0000 R CNN
 F 1 "OUTS" H 2222 3533 50  0000 R CNN
-F 2 "" H 2250 3650 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical" H 2250 3650 50  0001 C CNN
 F 3 "~" H 2250 3650 50  0001 C CNN
 	1    2250 3650
 	1    0    0    -1  
@@ -2155,4 +2155,134 @@ Wire Wire Line
 	2450 3050 2700 3050
 Wire Wire Line
 	2450 4350 2700 4350
+$Comp
+L Connector:Conn_01x01_Female J15
+U 1 1 6354D0B7
+P 7100 6900
+F 0 "J15" H 6992 6675 50  0000 C CNN
+F 1 "PWR" H 6992 6766 50  0000 C CNN
+F 2 "HammerheadAudio:M3_Plated" H 7100 6900 50  0001 C CNN
+F 3 "~" H 7100 6900 50  0001 C CNN
+	1    7100 6900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J16
+U 1 1 635549EB
+P 7900 6900
+F 0 "J16" H 7792 6675 50  0000 C CNN
+F 1 "GND" H 7792 6766 50  0000 C CNN
+F 2 "HammerheadAudio:M3_Plated" H 7900 6900 50  0001 C CNN
+F 3 "~" H 7900 6900 50  0001 C CNN
+	1    7900 6900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP1
+U 1 1 635554C5
+P 7450 6900
+F 0 "JP1" H 7450 7085 50  0000 C CNN
+F 1 "PWR" H 7450 6994 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 7450 6900 50  0001 C CNN
+F 3 "~" H 7450 6900 50  0001 C CNN
+	1    7450 6900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7300 6900 7350 6900
+$Comp
+L power:VCC #PWR035
+U 1 1 63577A57
+P 7600 6900
+F 0 "#PWR035" H 7600 6750 50  0001 C CNN
+F 1 "VCC" H 7617 7073 50  0000 C CNN
+F 2 "" H 7600 6900 50  0001 C CNN
+F 3 "" H 7600 6900 50  0001 C CNN
+	1    7600 6900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7550 6900 7600 6900
+$Comp
+L Device:Jumper_NO_Small JP2
+U 1 1 63599BCE
+P 8250 6900
+F 0 "JP2" H 8250 7085 50  0000 C CNN
+F 1 "GND" H 8250 6994 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 8250 6900 50  0001 C CNN
+F 3 "~" H 8250 6900 50  0001 C CNN
+	1    8250 6900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 6900 8150 6900
+Wire Wire Line
+	8350 6900 8400 6900
+$Comp
+L power:GND #PWR036
+U 1 1 635BBA28
+P 8400 6900
+F 0 "#PWR036" H 8400 6650 50  0001 C CNN
+F 1 "GND" H 8405 6727 50  0000 C CNN
+F 2 "" H 8400 6900 50  0001 C CNN
+F 3 "" H 8400 6900 50  0001 C CNN
+	1    8400 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J17
+U 1 1 635BC077
+P 8700 6900
+F 0 "J17" H 8592 6675 50  0000 C CNN
+F 1 "R+" H 8592 6766 50  0000 C CNN
+F 2 "HammerheadAudio:M3_Plated" H 8700 6900 50  0001 C CNN
+F 3 "~" H 8700 6900 50  0001 C CNN
+	1    8700 6900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J18
+U 1 1 635BC081
+P 9650 6900
+F 0 "J18" H 9542 6675 50  0000 C CNN
+F 1 "L+" H 9542 6766 50  0000 C CNN
+F 2 "HammerheadAudio:M3_Plated" H 9650 6900 50  0001 C CNN
+F 3 "~" H 9650 6900 50  0001 C CNN
+	1    9650 6900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP3
+U 1 1 635BC08B
+P 9050 6900
+F 0 "JP3" H 9050 7085 50  0000 C CNN
+F 1 "R+" H 9050 6994 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 9050 6900 50  0001 C CNN
+F 3 "~" H 9050 6900 50  0001 C CNN
+	1    9050 6900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8900 6900 8950 6900
+Wire Wire Line
+	9150 6900 9200 6900
+$Comp
+L Device:Jumper_NO_Small JP4
+U 1 1 635BC0A1
+P 10000 6900
+F 0 "JP4" H 10000 7085 50  0000 C CNN
+F 1 "L+" H 10000 6994 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 10000 6900 50  0001 C CNN
+F 3 "~" H 10000 6900 50  0001 C CNN
+	1    10000 6900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9850 6900 9900 6900
+Wire Wire Line
+	10100 6900 10150 6900
+Text GLabel 10150 6900 2    50   Input ~ 0
+L+
+Text GLabel 9200 6900 2    50   Input ~ 0
+R+
 $EndSCHEMATC

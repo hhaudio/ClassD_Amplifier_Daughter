@@ -106,6 +106,23 @@ X ~ 3 300 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Connector_Conn_01x01_Female
+#
+DEF Connector_Conn_01x01_Female J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Connector_Conn_01x01_Female" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*
+$ENDFPLIST
+DRAW
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+P 2 1 1 6 -50 0 -20 0 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Connector_Conn_01x02_Male
 #
 DEF Connector_Conn_01x02_Male J 0 40 Y N 1 F N
@@ -328,6 +345,24 @@ P 2 0 1 0 0 50 0 51 N
 P 5 0 1 0 -109 16 -67 89 109 -12 66 -85 -109 16 N
 X ~ 1 0 150 100 D 50 50 1 1 P
 X ~ 2 0 -150 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Device_Jumper_NO_Small
+#
+DEF Device_Jumper_NO_Small JP 0 30 N N 1 F N
+F0 "JP" 0 80 50 H V C CNN
+F1 "Device_Jumper_NO_Small" 10 -60 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ SolderJumper*Open*
+$ENDFPLIST
+DRAW
+C -40 0 20 0 1 0 N
+C 40 0 20 0 1 0 N
+X 1 1 -100 0 40 R 50 50 0 1 P
+X 2 2 100 0 40 L 50 50 0 1 P
 ENDDRAW
 ENDDEF
 #

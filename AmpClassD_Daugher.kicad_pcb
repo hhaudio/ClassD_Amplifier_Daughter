@@ -3403,7 +3403,7 @@
     (tags "Surface mounted pin header SMD 1x02 2.54mm single row style2 pin1 right")
     (path /630F5309)
     (attr smd)
-    (fp_text reference J14 (at 2.25 1.25 90) (layer F.SilkS)
+    (fp_text reference J12 (at 2.25 1.25 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value PLIM_DEF (at 0 3.6) (layer F.Fab)
@@ -3527,7 +3527,7 @@
     (descr "Through hole straight pin header, 1x14, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x14 2.54mm single row")
     (path /62B05122)
-    (fp_text reference J12 (at 0 -2.33) (layer F.SilkS)
+    (fp_text reference J14 (at 0 -2.33) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value INS (at 0 35.35) (layer F.Fab)
@@ -3591,7 +3591,7 @@
     (descr "Through hole straight pin header, 1x14, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x14 2.54mm single row")
     (path /62D2BDA8)
-    (fp_text reference J13 (at 0 -2.33) (layer F.SilkS)
+    (fp_text reference J13 (at 0 -2.33) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value OUTS (at 0 35.35) (layer F.Fab)
@@ -3672,7 +3672,7 @@
   )
 
   (module HammerheadAudio:M3_Plated (layer F.Cu) (tedit 6142030D) (tstamp 62095E8F)
-    (at 120.357501 16.317501)
+    (at 120.357501 19.75)
     (descr "STANDOFF (#4 SCREW)")
     (tags "STANDOFF (#4 SCREW)")
     (path /635549EB)

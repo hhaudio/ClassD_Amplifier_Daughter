@@ -1979,7 +1979,7 @@ F 3 "~" H 2250 3650 50  0001 C CNN
 	1    2250 3650
 	1    0    0    -1  
 $EndComp
-Text GLabel 2550 3250 2    50   Input ~ 0
+Text GLabel 2550 3550 2    50   Input ~ 0
 R-
 Text GLabel 2550 3850 2    50   Input ~ 0
 L+
@@ -1987,7 +1987,7 @@ Text GLabel 2550 4250 2    50   Input ~ 0
 L-
 Text GLabel 2550 3750 2    50   Input ~ 0
 L+
-Text GLabel 2550 3650 2    50   Input ~ 0
+Text GLabel 2550 3350 2    50   Input ~ 0
 R+
 Wire Wire Line
 	1450 3150 1450 3050
@@ -1996,7 +1996,7 @@ Wire Wire Line
 Connection ~ 1450 3150
 Wire Wire Line
 	1450 3150 1400 3150
-Text GLabel 2550 3550 2    50   Input ~ 0
+Text GLabel 2550 3250 2    50   Input ~ 0
 R+
 Wire Wire Line
 	2450 3250 2550 3250
@@ -2004,7 +2004,7 @@ Wire Wire Line
 	2450 3350 2550 3350
 Wire Wire Line
 	2450 3550 2550 3550
-Text GLabel 2550 3350 2    50   Input ~ 0
+Text GLabel 2550 3650 2    50   Input ~ 0
 R-
 Wire Wire Line
 	2450 3650 2550 3650
@@ -2124,11 +2124,11 @@ Wire Wire Line
 	1450 3950 1600 3950
 Wire Wire Line
 	1450 4150 1600 4150
-Text GLabel 2550 3150 2    50   Input ~ 0
+Text GLabel 2550 3450 2    50   Input ~ 0
 R-
 Wire Wire Line
 	2450 3150 2550 3150
-Text GLabel 2550 3450 2    50   Input ~ 0
+Text GLabel 2550 3150 2    50   Input ~ 0
 R+
 Wire Wire Line
 	2450 3450 2550 3450

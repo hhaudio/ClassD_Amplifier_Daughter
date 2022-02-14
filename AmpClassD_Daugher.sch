@@ -612,13 +612,13 @@ RIN-
 $Comp
 L Connector_Generic:Conn_02x03_Odd_Even J4
 U 1 1 633BE700
-P 4200 6950
-F 0 "J4" V 4296 6762 50  0000 R CNN
-F 1 "ST/MN" V 4205 6762 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD" H 4200 6950 50  0001 C CNN
-F 3 "C192301" H 4200 6950 50  0001 C CNN
-	1    4200 6950
-	0    -1   -1   0   
+P 4200 6850
+F 0 "J4" V 4296 6662 50  0000 R CNN
+F 1 "ST/MN" V 4205 6662 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD" H 4200 6850 50  0001 C CNN
+F 3 "C192301" H 4200 6850 50  0001 C CNN
+	1    4200 6850
+	0    -1   1    0   
 $EndComp
 Wire Wire Line
 	3900 7000 3900 7150
@@ -1351,7 +1351,7 @@ Connection ~ 5350 3650
 Wire Wire Line
 	5350 3650 6600 3650
 $Comp
-L Crossley_Symbols:TRS_BalancedJack J3
+L Connector:AudioJack3 J3
 U 1 1 61CD5AC7
 P 3750 1250
 F 0 "J3" H 3470 1183 50  0000 R CNN

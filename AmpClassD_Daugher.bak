@@ -1351,7 +1351,7 @@ Connection ~ 5350 3650
 Wire Wire Line
 	5350 3650 6600 3650
 $Comp
-L Crossley_Symbols:TRS_BalancedJack J3
+L Connector:AudioJack3 J3
 U 1 1 61CD5AC7
 P 3750 1250
 F 0 "J3" H 3470 1183 50  0000 R CNN
@@ -1909,10 +1909,10 @@ F 3 "" H 1200 4250 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Connector:Conn_01x14_Male J12
+L Connector:Conn_01x14_Male J14
 U 1 1 62B05122
 P 1800 3650
-F 0 "J12" H 1772 3624 50  0000 R CNN
+F 0 "J14" H 1772 3624 50  0000 R CNN
 F 1 "INS" H 1772 3533 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical" H 1800 3650 50  0001 C CNN
 F 3 "~" H 1800 3650 50  0001 C CNN
@@ -2081,10 +2081,10 @@ Connection ~ 2250 1600
 Wire Wire Line
 	2250 1600 2550 1600
 $Comp
-L Connector:Conn_01x02_Male J14
+L Connector:Conn_01x02_Male J12
 U 1 1 630F5309
 P 6300 3350
-F 0 "J14" H 6272 3232 50  0000 R CNN
+F 0 "J12" H 6272 3232 50  0000 R CNN
 F 1 "PLIM_DEF" H 6272 3323 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Right" H 6300 3350 50  0001 C CNN
 F 3 "C780060" H 6300 3350 50  0001 C CNN

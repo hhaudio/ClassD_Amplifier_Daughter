@@ -1,4 +1,4 @@
-18636987442929439
+18638639301580439
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -51325,6 +51325,13 @@ phoenix_contact connector MCV_01x02_G_3.81mm
 2
 HammerheadAudio
 Phoenix_Stacked_Marking2_Wider_NoRef
+Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
+phoenix_contact connector MCV_01x02_G_3.81mm
+0
+4
+2
+HammerheadAudio
+Phoenix_Stacked_Marking2_Wider_NoRef_Centered
 Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
 phoenix_contact connector MCV_01x02_G_3.81mm
 0

@@ -2008,18 +2008,6 @@ Wire Wire Line
 Wire Wire Line
 	9850 6900 9900 6900
 $Comp
-L Connector_Generic:Conn_02x08_Odd_Even J6
-U 1 1 64DA7895
-P 5100 -850
-F 0 "J6" H 5150 -333 50  0000 C CNN
-F 1 "GAIN_SEL" H 5150 -424 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical_SMD" H 5100 -850 50  0001 C CNN
-F 3 "C2884017" H 5100 -850 50  0001 C CNN
-F 4 "C2884017" H 5100 -850 50  0001 C CNN "LCSC"
-	1    5100 -850
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R R15
 U 1 1 64DB0867
 P 2650 -1850
@@ -2547,14 +2535,14 @@ Wire Wire Line
 $Comp
 L Connector_Generic:Conn_02x03_Odd_Even J7
 U 1 1 654D81DE
-P 6250 5800
-F 0 "J7" V 6346 5612 50  0000 R CNN
-F 1 "SYNC" V 6255 5612 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD" H 6250 5800 50  0001 C CNN
-F 3 "C780054" H 6250 5800 50  0001 C CNN
-F 4 "C780054" H 6250 5800 50  0001 C CNN "LCSC"
-	1    6250 5800
-	-1   0    0    -1  
+P 6150 5800
+F 0 "J7" V 6246 5612 50  0000 R CNN
+F 1 "SYNC" V 6155 5612 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD" H 6150 5800 50  0001 C CNN
+F 3 "C780054" H 6150 5800 50  0001 C CNN
+F 4 "C780054" H 6150 5800 50  0001 C CNN "LCSC"
+	1    6150 5800
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:C C10
@@ -2629,4 +2617,16 @@ Wire Wire Line
 	3600 6800 3950 6800
 Wire Wire Line
 	3600 7000 3950 7000
+$Comp
+L Connector_Generic:Conn_02x08_Odd_Even J6
+U 1 1 64DA7895
+P 5200 -850
+F 0 "J6" H 5250 -333 50  0000 C CNN
+F 1 "GAIN_SEL" H 5250 -424 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical_SMD" H 5200 -850 50  0001 C CNN
+F 3 "C2884017" H 5200 -850 50  0001 C CNN
+F 4 "C2884017" H 5200 -850 50  0001 C CNN "LCSC"
+	1    5200 -850
+	-1   0    0    -1  
+$EndComp
 $EndSCHEMATC

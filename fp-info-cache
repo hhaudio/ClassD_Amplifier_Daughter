@@ -1,4 +1,4 @@
-19132908161352439
+18840443418062439
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -3753,13 +3753,6 @@ capacitor
 2
 Capacitor_SMD
 C_0603_1608Metric_Pad1.05x0.95mm_HandSolder
-Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitor_SMD
-C_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 capacitor handsolder
 0
@@ -32487,20 +32480,6 @@ Surface mounted pin header SMD 2x03 2.54mm double row
 6
 6
 Connector_PinHeader_2.54mm
-PinHeader_2x03_P2.54mm_Vertical_SMD_PWR_OPT
-surface-mounted straight pin header, 2x03, 2.54mm pitch, double rows
-Surface mounted pin header SMD 2x03 2.54mm double row
-0
-6
-6
-Connector_PinHeader_2.54mm
-PinHeader_2x03_P2.54mm_Vertical_SMD_REG_PWR
-surface-mounted straight pin header, 2x03, 2.54mm pitch, double rows
-Surface mounted pin header SMD 2x03 2.54mm double row
-0
-6
-6
-Connector_PinHeader_2.54mm
 PinHeader_2x04_P2.54mm_Horizontal
 Through hole angled pin header, 2x04, 2.54mm pitch, 6mm pin length, double rows
 Through hole angled pin header THT 2x04 2.54mm double row
@@ -45241,13 +45220,6 @@ SMD_TRIM_JLC_Name
 3
 3
 Crossley_Footprints
-SMD_TRIM_JLC_NameBottom
-
-
-0
-3
-3
-Crossley_Footprints
 Switchcraft_EH35MMSSCB_3.5mm
 
 
@@ -47089,13 +47061,6 @@ Diode SMA (DO-214AC)
 2
 2
 Diode_SMD
-D_SMA_SmallRef_Tuck
-Diode SMA (DO-214AC)
-Diode SMA (DO-214AC)
-0
-2
-2
-Diode_SMD
 D_SMB
 Diode SMB (DO-214AA)
 Diode SMB (DO-214AA)
@@ -47181,13 +47146,6 @@ SOD-323
 2
 Diode_SMD
 D_SOD-323F
-SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
-SOD-323F
-0
-2
-2
-Diode_SMD
-D_SOD-323F_NoRef
 SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
 SOD-323F
 0
@@ -48748,13 +48706,6 @@ fiducial
 1
 0
 Fiducial
-Fiducial_1mm_Mask2mm_BothSidesJLC
-Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)
-fiducial
-0
-2
-0
-Fiducial
 Fiducial_1mm_Mask3mm
 Circular Fiducial, 1mm bare copper, 3mm soldermask opening (recommended)
 fiducial
@@ -49546,13 +49497,6 @@ HammerheadAudio
 4
 3
 HammerheadAudio
-6-32_ClearanceHole
-
-
-0
-0
-0
-HammerheadAudio
 6.5mm_Hole
 
 
@@ -49622,20 +49566,6 @@ HammerheadAudio
 0
 2
 2
-HammerheadAudio
-16Ohm+
-
-
-0
-1
-1
-HammerheadAudio
-16Ohm-
-
-
-0
-1
-1
 HammerheadAudio
 20kV_Transformer
 
@@ -49714,13 +49644,6 @@ Alpha_Pot_16MM
 3
 3
 HammerheadAudio
-Angel_Spheres
-
-
-0
-0
-0
-HammerheadAudio
 Arrow_BiDirectional_2.1x3mm_Mask
 
 
@@ -49749,21 +49672,7 @@ Asterism_5.6x5.5mm_Silk
 0
 0
 HammerheadAudio
-Babble_BorderText_75
-
-
-0
-0
-0
-HammerheadAudio
 Babble_BothSilk_600DPI
-
-
-0
-0
-0
-HammerheadAudio
-Babble_CenterText_75
 
 
 0
@@ -49792,90 +49701,6 @@ Babble_PixelMask_600DPI
 0
 HammerheadAudio
 Babble_PixelSilk_600DPI
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_Border75
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_Border300
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_Copper300
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_Mask300
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_Mask300_Back
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_MaskTree2_300
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_MaskTree3_300
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_MaskTree300
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_Silk300
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_Silk300_Back
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_TextBorder2_75
-
-
-0
-0
-0
-HammerheadAudio
-Babble_Side_TextBorder75
 
 
 0
@@ -50155,62 +49980,6 @@ BigResistor_DigiKey_25W
 2
 2
 HammerheadAudio
-BlankPad
-
-
-0
-1
-1
-HammerheadAudio
-BNC_THT_Vertical_CONBNC001
-
-
-0
-5
-2
-HammerheadAudio
-BorosScale_Tiny_11400DPI
-
-
-0
-0
-0
-HammerheadAudio
-BorosScale_Tiny_12000DPI
-
-
-0
-0
-0
-HammerheadAudio
-Boros_Scale_18in
-
-
-0
-0
-0
-HammerheadAudio
-Boros_Scale_Med
-
-
-0
-0
-0
-HammerheadAudio
-Boros_Scale_Med_Edit
-
-
-0
-0
-0
-HammerheadAudio
-Boros_Scale_Smaller
-
-
-0
-0
-0
-HammerheadAudio
 Bourns_Rotary
 Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
@@ -50309,20 +50078,6 @@ ClassD_Amp_Mother_Outline
 32
 15
 HammerheadAudio
-ClassD_Amp_Mother_Outline_NPTH
-
-
-0
-28
-14
-HammerheadAudio
-Class_D_OutlineOnly
-
-
-0
-28
-14
-HammerheadAudio
 ClosedPointer_1.6x3mm_Mask
 
 
@@ -50331,34 +50086,6 @@ ClosedPointer_1.6x3mm_Mask
 0
 HammerheadAudio
 ClosedPointer_1.6x3mm_Mask_Rev
-
-
-0
-0
-0
-HammerheadAudio
-COB2_Backdrop_Mask300
-
-
-0
-0
-0
-HammerheadAudio
-COB2_Neg_Backdrop_Mask300
-
-
-0
-0
-0
-HammerheadAudio
-COB_Backdrop_Mask300
-
-
-0
-0
-0
-HammerheadAudio
-COB_Neg_Backdrop_Mask300
 
 
 0
@@ -50380,20 +50107,6 @@ Creep20_217.6x300mm
 0
 HammerheadAudio
 Creep25_130x184mm
-
-
-0
-0
-0
-HammerheadAudio
-CreepFaceD2_150DPI
-
-
-0
-0
-0
-HammerheadAudio
-CreepFaceF1_150DPI
 
 
 0
@@ -50422,13 +50135,6 @@ crossley_logo
 0
 HammerheadAudio
 crossley_smooth
-
-
-0
-0
-0
-HammerheadAudio
-Crystal_Icon_Spheres
 
 
 0
@@ -50469,20 +50175,6 @@ C Disc series Radial pin pitch 7.50mm  diameter 12.5mm width 5.0mm Capacitor
 0
 2
 2
-HammerheadAudio
-DC_Jack_54-00127
-
-
-0
-0
-0
-HammerheadAudio
-DC_Jack_PJ-012A
-
-
-0
-3
-3
 HammerheadAudio
 DIP-8_W7.62mm_Socket_2Sides
 8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
@@ -50694,13 +50386,6 @@ EuroJack_MonoSW_THT_NOREF_Mask_SmallHoles_NoSilk
 3
 3
 HammerheadAudio
-EuroJack_MonoSW_THT_NOREF_SmallHoles_NoSilk
-
-
-0
-3
-3
-HammerheadAudio
 EuroJack_MonoSW_THT_REF
 
 
@@ -50737,48 +50422,6 @@ Through hole pin header THT 2x05 2.54mm double row
 10
 HammerheadAudio
 Euro_Rail_Mount_Space
-
-
-0
-0
-0
-HammerheadAudio
-FallingAngle_BMask_8x8mm
-
-
-0
-0
-0
-HammerheadAudio
-FallingAngle_BMask_10x10mm
-
-
-0
-0
-0
-HammerheadAudio
-FallingAngle_Mask_8x8mm
-
-
-0
-0
-0
-HammerheadAudio
-FallingAngle_Mask_10x10mm
-
-
-0
-0
-0
-HammerheadAudio
-FireBackdrop_Mask300
-
-
-0
-0
-0
-HammerheadAudio
-Fish_Spheres
 
 
 0
@@ -50877,13 +50520,6 @@ Floral_Tile_5x5mm
 0
 HammerheadAudio
 Floral_Tile_Rev_5x5mm
-
-
-0
-0
-0
-HammerheadAudio
-Globus_Icon_4x5.8mm_Mask
 
 
 0
@@ -51443,13 +51079,6 @@ HH_LOGO_32x16
 0
 0
 HammerheadAudio
-HH_LOGO_32x16_Centered
-
-
-0
-0
-0
-HammerheadAudio
 HiveFrame1_350x400mm
 
 
@@ -51562,77 +51191,7 @@ Through hole pin header THT 1x06 2.54mm single row
 6
 6
 HammerheadAudio
-IP_Head_1
-
-
-0
-0
-0
-HammerheadAudio
-IP_Head_2
-
-
-0
-0
-0
-HammerheadAudio
-IslandClean
-
-
-0
-0
-0
-HammerheadAudio
-IsoKnavesBodies_Silk
-
-
-0
-0
-0
-HammerheadAudio
-IsoKnaves_Silk
-
-
-0
-0
-0
-HammerheadAudio
-IsoTowersBodies_Mask
-
-
-0
-0
-0
-HammerheadAudio
-IsoTowersBodies_Silk
-
-
-0
-0
-0
-HammerheadAudio
-IsoTowers_JLCFix_Mask
-
-
-0
-0
-0
-HammerheadAudio
-IsoTowers_JLCFix_Mask2
-
-
-0
-0
-0
-HammerheadAudio
 JLC-StereoJack-MonoSwitched-C2764616
-
-
-0
-4
-4
-HammerheadAudio
-JLC-StereoJack-MonoSwitched-C2764616_VAL
 
 
 0
@@ -51674,47 +51233,12 @@ JLC_RA_LED_Silk
 2
 2
 HammerheadAudio
-JLC_RA_LED_Silk_CenterLight
-
-
-0
-2
-2
-HammerheadAudio
-JLC_RA_LED_TH
-
-
-0
-2
-2
-HammerheadAudio
-JLC_RGBLED_SMT_C397052
-
-
-0
-4
-4
-HammerheadAudio
-JLC_SlideTHT_SPDT_C319012
-
-
-0
-3
-3
-HammerheadAudio
 JLC_SMD_DIP_SPSTx2_C40735
 
 
 0
 4
 4
-HammerheadAudio
-JLC_SPDT_SLIDE_3A_C2887258
-
-
-0
-3
-3
 HammerheadAudio
 JLC_SW_SPDT_SMT_C145845
 
@@ -51752,97 +51276,6 @@ KaiRho_BMask_400DPI_11.5x13mm
 0
 HammerheadAudio
 KaiRho_Mask_400DPI_11.5x13mm
-
-
-0
-0
-0
-HammerheadAudio
-KingMadSketch_600DPI
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_JLCFix1_300
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_JLCFix2_300
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_JLCFix2_300_NoKnave
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_JLCFix3_75
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_JLCFix3_150
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_JLCFix4_150
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_JLCFix4_150_Mask
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_MaskTest_Borders
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_MaskTest_Borders2
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_MaskTest_Detail
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_MaskTest_Detail_4
-
-
-0
-0
-0
-HammerheadAudio
-LadderBabble_SilkTest
 
 
 0
@@ -51947,28 +51380,7 @@ LED diameter 5.0mm 2 pins
 2
 2
 HammerheadAudio
-LGS_Mask
-
-
-0
-0
-0
-HammerheadAudio
-LGS_Silk
-
-
-0
-0
-0
-HammerheadAudio
 LilNoid2
-
-
-0
-0
-0
-HammerheadAudio
-Lobster_Mask
 
 
 0
@@ -52017,173 +51429,12 @@ mounting hole 4.3mm no annular m4
 0
 0
 HammerheadAudio
-Medieval_X_Icon
-
-
-0
-0
-0
-HammerheadAudio
-Medieval_X_Icon_Mask
-
-
-0
-0
-0
-HammerheadAudio
-Medieval_X_Icon_Mask_1000DPI
-
-
-0
-0
-0
-HammerheadAudio
-Medieval_X_Icon_Mask_1100DPI
-
-
-0
-0
-0
-HammerheadAudio
-Medieval_X_Icon_Silk_1000DPI
-
-
-0
-0
-0
-HammerheadAudio
-Medieval_X_Icon_Silk_1100DPI
-
-
-0
-0
-0
-HammerheadAudio
-Medieval_Y_Icon_Mask
-
-
-0
-0
-0
-HammerheadAudio
-Medieval_Y_Icon_Mask_1000DPI
-
-
-0
-0
-0
-HammerheadAudio
-Medieval_Y_Icon_Mask_1100DPI
-
-
-0
-0
-0
-HammerheadAudio
-Medieval_Y_Icon_Silk
-
-
-0
-0
-0
-HammerheadAudio
-Medieval_Y_Icon_Silk_1000DPI
-
-
-0
-0
-0
-HammerheadAudio
-Medieval_Y_Icon_Silk_1100DPI
-
-
-0
-0
-0
-HammerheadAudio
 MIDI_JACK_THT_SF
 
 
 0
 7
 6
-HammerheadAudio
-MJIslands
-
-
-0
-0
-0
-HammerheadAudio
-MJIslands600
-
-
-0
-0
-0
-HammerheadAudio
-MJIslands600_Spheres_Mask
-
-
-0
-0
-0
-HammerheadAudio
-MJIslands600_Spheres_Silk
-
-
-0
-0
-0
-HammerheadAudio
-MJIslands600_Spheres_Silk2
-
-
-0
-0
-0
-HammerheadAudio
-MJIslands600_Spheres_Silk3
-
-
-0
-0
-0
-HammerheadAudio
-MJIslands600_Spheres_Silk4
-
-
-0
-0
-0
-HammerheadAudio
-MJIslands600_Spheres_Silk5
-
-
-0
-0
-0
-HammerheadAudio
-MJIslands600_Spheres_Silk6
-
-
-0
-0
-0
-HammerheadAudio
-MJIslands_Guild
-
-
-0
-0
-0
-HammerheadAudio
-MJIslands_Guild_Mask
-
-
-0
-0
-0
 HammerheadAudio
 Moon_Mask_100x100mm_97DPI
 
@@ -52388,27 +51639,6 @@ N!_VSmall
 0
 0
 HammerheadAudio
-Neutrik_Cutout
-
-
-0
-0
-0
-HammerheadAudio
-NewBabble_MaskTest
-
-
-0
-0
-0
-HammerheadAudio
-NewBabble_SilkTest
-
-
-0
-0
-0
-HammerheadAudio
 NoAsterism+Lines_5.6x5.5mm_Silk
 
 
@@ -52591,13 +51821,6 @@ phoenix_contact connector MCV_01x02_G_3.81mm
 4
 2
 HammerheadAudio
-Phoenix_Stacked_BackSilk_Centered_BoardEdge
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
 Phoenix_Stacked_Marking
 Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
 phoenix_contact connector MCV_01x02_G_3.81mm
@@ -52619,13 +51842,6 @@ phoenix_contact connector MCV_01x02_G_3.81mm
 4
 2
 HammerheadAudio
-Phoenix_Stacked_Marking2_NoRef_Centered_BoardEdge
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
 Phoenix_Stacked_Marking2_Wider
 Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
 phoenix_contact connector MCV_01x02_G_3.81mm
@@ -52641,62 +51857,6 @@ phoenix_contact connector MCV_01x02_G_3.81mm
 2
 HammerheadAudio
 Phoenix_Stacked_Marking2_Wider_NoRef_Centered
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
-Phoenix_Stacked_Marking2_Wider_NoRef_Centered_BoardEdge
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
-Phoenix_Stacked_Marking2_Wider_NoRef_Centered_NoMark
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
-Phoenix_Stacked_Marking2_Wider_NoRef_Centered_NoMark_BoardEdge
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
-Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PinMark
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
-Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PinMark_BoardEdge
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
-Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PowMark
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
-Phoenix_Stacked_Marking2_Wider_NoRef_Centered_PowMark_BoardEdge
-Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
-phoenix_contact connector MCV_01x02_G_3.81mm
-0
-4
-2
-HammerheadAudio
-Phoenix_Stacked_Marking2_Wider_NoRef_Centered_Val
 Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
 phoenix_contact connector MCV_01x02_G_3.81mm
 0
@@ -52737,20 +51897,6 @@ Through hole pin header THT 1x06 2.54mm single row
 0
 6
 6
-HammerheadAudio
-PJ-3410
-
-
-0
-4
-4
-HammerheadAudio
-Plant_Spheres
-
-
-0
-0
-0
 HammerheadAudio
 PlatedPB
 
@@ -52885,13 +52031,6 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
 16
 16
 HammerheadAudio
-Rabbit_Spheres
-
-
-0
-0
-0
-HammerheadAudio
 Replacement_9x9mm
 
 
@@ -52969,13 +52108,6 @@ Screamer_6x9mm
 0
 0
 HammerheadAudio
-Screamer_6x9mm_Back
-
-
-0
-0
-0
-HammerheadAudio
 Screamer_7x10mm
 
 
@@ -53010,90 +52142,6 @@ ScrewTerm_7.62_CUI
 0
 2
 2
-HammerheadAudio
-SF_LeftMask_01
-
-
-0
-0
-0
-HammerheadAudio
-SF_LeftMask_02
-
-
-0
-0
-0
-HammerheadAudio
-SF_LeftSilkFrame_300DPI_1
-
-
-0
-0
-0
-HammerheadAudio
-SF_LeftSilkInner_150DPI_1
-
-
-0
-0
-0
-HammerheadAudio
-SF_LeftSilkInner_300DPI_1
-
-
-0
-0
-0
-HammerheadAudio
-SF_LeftSilkInner_300DPI_2
-
-
-0
-0
-0
-HammerheadAudio
-SF_LeftSilk_01
-
-
-0
-0
-0
-HammerheadAudio
-SF_LeftSilk_02
-
-
-0
-0
-0
-HammerheadAudio
-SF_LeftSilk_Block_300DPI_1
-
-
-0
-0
-0
-HammerheadAudio
-SF_LeftSilk_Center_Block_300DPI_1
-
-
-0
-0
-0
-HammerheadAudio
-SF_LeftSilk_Frame_Block_150DPI_1
-
-
-0
-0
-0
-HammerheadAudio
-SF_Right_Block_300DPI
-
-
-0
-0
-0
 HammerheadAudio
 ShiftDriverV0.1
 
@@ -53178,13 +52226,6 @@ Through hole pin header THT 1x09 2.54mm single row
 0
 9
 9
-HammerheadAudio
-Skelly_Spheres
-
-
-0
-0
-0
 HammerheadAudio
 SlappingKnave_21.4x38.8mm_Smooth
 
@@ -53283,41 +52324,6 @@ Speaker-DBU-SM420608-1_BothSides
 0
 4
 2
-HammerheadAudio
-SpeakerHead_300_Mask
-
-
-0
-0
-0
-HammerheadAudio
-SpeakerHead_300_Silk
-
-
-0
-0
-0
-HammerheadAudio
-Speaker_TE122001-6
-
-
-0
-2
-2
-HammerheadAudio
-Speaker_TE122001-6_LooseFit
-
-
-0
-2
-2
-HammerheadAudio
-SRBD_SMT_ROTARY
-
-
-0
-16
-13
 HammerheadAudio
 StDemetrios_Mask_450DPI
 
@@ -53438,13 +52444,6 @@ SwarmIcon_7.3x5.8mm
 0
 0
 HammerheadAudio
-SwordGuy_Spheres
-
-
-0
-0
-0
-HammerheadAudio
 SW_PUSH_6mm_Bothsides
 https://www.omron.com/ecb/products/pdf/en-b3f.pdf
 tact sw push 6mm
@@ -53536,20 +52535,6 @@ TE122001-6
 2
 2
 HammerheadAudio
-Teensy4.1_SMD_Headers
-Through hole straight pin header, 1x34, 2.54mm pitch, single row
-Through hole pin header THT 1x34 2.54mm single row
-0
-100
-49
-HammerheadAudio
-Teensy4.1_SMD_Headers_MidSilk
-Through hole straight pin header, 1x34, 2.54mm pitch, single row
-Through hole pin header THT 1x34 2.54mm single row
-0
-100
-49
-HammerheadAudio
 TeensyCodec
 Through hole straight pin header, 1x34, 2.54mm pitch, single row
 Through hole pin header THT 1x34 2.54mm single row
@@ -53565,13 +52550,6 @@ Through hole pin header THT 1x34 2.54mm single row
 65
 HammerheadAudio
 TeensyCodec_SMT_JLC
-Through hole straight pin header, 1x34, 2.54mm pitch, single row
-Through hole pin header THT 1x34 2.54mm single row
-0
-160
-66
-HammerheadAudio
-TeensyCodec_SMT_JLC_Centered
 Through hole straight pin header, 1x34, 2.54mm pitch, single row
 Through hole pin header THT 1x34 2.54mm single row
 0
@@ -53628,34 +52606,6 @@ TestBabel
 0
 HammerheadAudio
 TestBabel2
-
-
-0
-0
-0
-HammerheadAudio
-TestIsland
-
-
-0
-0
-0
-HammerheadAudio
-TestIsland2
-
-
-0
-0
-0
-HammerheadAudio
-TestIsland3
-
-
-0
-0
-0
-HammerheadAudio
-TestIsland4
 
 
 0
@@ -53788,48 +52738,6 @@ Tounge_Shrunk_Pixelated_154x188mm
 0
 0
 HammerheadAudio
-TowerBack3
-
-
-0
-0
-0
-HammerheadAudio
-TowerBack4
-
-
-0
-0
-0
-HammerheadAudio
-TowerBack5
-
-
-0
-0
-0
-HammerheadAudio
-TowerBack6
-
-
-0
-0
-0
-HammerheadAudio
-TowerBack6_Thicc
-
-
-0
-0
-0
-HammerheadAudio
-TowerBak2
-
-
-0
-0
-0
-HammerheadAudio
 TRACO_DCDC
 DCDC-Converter, TRACO, TSR 1-xxxx
 DCDC-Converter TRACO TSR-1
@@ -53873,48 +52781,6 @@ Triskelion_5.8x6mm_Mask+Eco
 0
 HammerheadAudio
 Triskelion_5.8x6mm_Neg_Mask
-
-
-0
-0
-0
-HammerheadAudio
-VasilyTest
-
-
-0
-0
-0
-HammerheadAudio
-VasilyTest_Silk
-
-
-0
-0
-0
-HammerheadAudio
-Vasily_Mask4
-
-
-0
-0
-0
-HammerheadAudio
-Vasily_Mask_3_1
-
-
-0
-0
-0
-HammerheadAudio
-Vasily_Silk4
-
-
-0
-0
-0
-HammerheadAudio
-Vasily_Silk_3_1
 
 
 0
@@ -54096,27 +52962,6 @@ WheelOfLife_SIlk_Big
 0
 0
 HammerheadAudio
-WheelOfLife_Tiny_812DPI
-
-
-0
-0
-0
-HammerheadAudio
-WheelOfLife_Tiny_1625DPI
-
-
-0
-0
-0
-HammerheadAudio
-WheelOfLife_Tiny_6500DPI
-
-
-0
-0
-0
-HammerheadAudio
 WheelOfLike_Mask
 
 
@@ -54139,20 +52984,6 @@ WheelOfLike_V3_Mask_600DPI
 0
 HammerheadAudio
 WheelOfLike_V3_Silk_600DPI
-
-
-0
-0
-0
-HammerheadAudio
-WheelStar_Gilding
-
-
-0
-0
-0
-HammerheadAudio
-WheelStar_Icon
 
 
 0
@@ -57974,13 +56805,6 @@ LED handsolder
 2
 2
 LED_SMD
-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder_SmallRef
-LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-LED handsolder
-0
-2
-2
-LED_SMD
 LED_01005_0402Metric
 LED SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
 LED
@@ -59793,13 +58617,6 @@ TEENSY_3.5_3.6_NO_SILK
 0
 86
 86
-MeowWolf_Templates
-TEENSY_4.1_MINIMAL_DROP_IN
-TEENSY 3 FOOTPRINT- NO SILK LABEL ON PINS
-TEENSY 3 FOOTPRINT- NO SILK LABEL ON PINS
-0
-28
-28
 MeowWolf_Templates
 TEENSY_LC
 TEENSY 3 FOOTPRINT
@@ -70301,13 +69118,6 @@ SOT-23
 3
 3
 Package_TO_SOT_SMD
-SOT-23_HiddenRef
-SOT-23, Standard
-SOT-23
-0
-3
-3
-Package_TO_SOT_SMD
 SOT-23_SmallRef
 SOT-23, Standard
 SOT-23
@@ -74327,13 +73137,6 @@ resistor
 2
 Resistor_SMD
 R_0603_1608Metric_Pad1.05x0.95mm_HandSolder
-Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_0603_1608Metric_Pad1.05x0.95mm_HandSolder_HiddenRef
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor handsolder
 0
@@ -78939,21 +77742,7 @@ Opto_Plant_3.8x5.6mm_Silk
 0
 0
 Skelly
-Opto_Pointer1_3.4x8.2mm_Mask
-
-
-0
-0
-0
-Skelly
 Opto_Pointer1_3.4x8.2mm_Silk
-
-
-0
-0
-0
-Skelly
-Opto_Pointer2_3.4x8.2mm_Mask
 
 
 0
@@ -79261,13 +78050,6 @@ ShushingHead_Smooth_5x4.3mm_BothSides
 0
 0
 Skelly
-ShushingHead_Smooth_5x4.3mm_Mask
-
-
-0
-0
-0
-Skelly
 skellywater
 
 
@@ -79367,13 +78149,6 @@ SpeakingHead_Smooth_5x4.3mm_Back
 0
 Skelly
 SpeakingHead_Smooth_5x4.3mm_BothSides
-
-
-0
-0
-0
-Skelly
-SpeakingHead_Smooth_5x4.3mm_Mask
 
 
 0
